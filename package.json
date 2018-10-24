@@ -59,6 +59,6 @@
   "keywords": [],
   "dependencies": {
     "etag": "^1.7.0",
-    "fresh": "^0.3.0"
+    "fresh": "^0.5.2"
   }
 }
